@@ -25,7 +25,7 @@
   /* background: gray; */
   /* width: 50%; */
 /* } */
-.aa > form> input, select{
+.aa > form> input, .aa > form> select{
 height:40px;
 width: 100%;
 display: block;
@@ -37,7 +37,7 @@ border: 1px solid rgba(196, 194, 194, 0.89);
 text-indent: 0.1cm;
 /* background-color: hotpink; */
 }
-.aa > form>input:focus, select:focus{
+.aa > form>input:focus, .aa > form> select:focus{
   border: 1px solid #c463f1;
   transition-duration: 0.4s;
   transition-timing-function: ease-in-out;
