@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Helvetica;
+  src: url(./assets/Fonts/Helvetica-Neue-Medium.ttf);
+}
+
+@font-face {
+  font-family: monospace;
+  src: url(./assets/Fonts/Montserrat-Thin.ttf);
+}
+
+*{
+margin: 0px;
+}
+
